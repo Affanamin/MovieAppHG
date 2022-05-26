@@ -1,6 +1,6 @@
 package com.androidappwp.movieapphg.remote
 
-import com.androidappwp.movieapphg.data.MovieResponse
+import com.androidappwp.movieapphg.hilt.MovieResponse
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query
